@@ -6,32 +6,32 @@ const data = [
   {
     name: "Clean Room",
     id: 123,
-    purchased: false
+    completed: false
   },
   {
     name: "Do Homework",
     id: 124,
-    purchased: false
+    completed: false
   },
   {
     name: "Laundry",
     id: 1235,
-    purchased: false
+    completed: false
   },
   {
     name: "Play Video Games",
     id: 1246,
-    purchased: false
+    completed: false
   },
   {
     name: "Study",
     id: 1237,
-    purchased: false
+    completed: false
   },
   {
     name: "Play Laser Tag",
     id: 1248,
-    purchased: false
+    completed: false
   }
 ];
 export default data;
